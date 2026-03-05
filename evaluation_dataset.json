@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Explain what machine learning is.",
+    "evaluation_criteria": [
+      "mentions data",
+      "mentions training",
+      "mentions prediction"
+    ]
+  },
+  {
+    "prompt": "What is artificial intelligence?",
+    "evaluation_criteria": [
+      "mentions machines",
+      "mentions intelligence",
+      "mentions automation"
+    ]
+  }
+]
