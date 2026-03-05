@@ -1,0 +1,7 @@
+Explain what artificial intelligence is in simple terms.
+
+The answer should:
+- be clear
+- be factually correct
+- avoid hallucinations
+- be understandable for beginners
